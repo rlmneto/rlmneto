@@ -42,7 +42,7 @@ Solid background building reliable frameworks and integrations:
 - **Relator** — GitHub Action for automated Telegram notifications (Python integration)  
 - **Adaptix** — High-performance data model conversion library  
 
-## 🌎 Destination: Thailand 2027
+## 🌎 Destination: Thailand
 
 Preparing for a full transition to the **Digital Nomad** lifestyle — working remotely worldwide as a **Cybersecurity Consultant** (software development + pentesting + purple team services).
 
