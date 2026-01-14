@@ -4,15 +4,15 @@
 
 I'm a **Senior Software Developer** specialized in Python system integrations, currently transitioning my career into **Purple Team** operations. My unique strength lies at the intersection of building complex, robust architectures and knowing exactly how to break, monitor, and defend them.
 
-## 🧪 Featured Project: Home SOC Lab (Wazuh)
-Actively building a comprehensive home-based detection and response environment.
+## 🧪 Featured Project: Home IDS Lab (Suricata on Raspberry Pi)
+Actively building a lightweight, low-cost intrusion detection environment focused on real network visibility.
 
-- **Objective**: Deploy a full-stack SIEM/XDR using Wazuh to monitor hybrid endpoints  
-- **Key Features**: Log ingestion (Sysmon / Auditd), custom detection rules targeting Python-based exploits, automated response scripts  
-- **Tech Stack**: Wazuh, Ubuntu Server, Docker, Python (automation & scripting), MITRE ATT&CK mapping  
-- **Goal**: Bridge the gap between development logic and real-time threat detection & response  
-
-👉 [**View on GitHub → Wazuh-Homelab**](https://github.com/rlmneto/Wazuh-Homelab)
+- **Objective**: Deploy a dedicated IDS using Suricata on a Raspberry Pi 2B to monitor network traffic and detect malicious activity
+- **Key Features**: Network traffic inspection, custom Suricata rules, alert generation, protocol analysis, attacker behavior detection
+- **Tech Stack**: Suricata, Raspberry Pi 2B, Linux, TCP/IP analysis, IDS rule tuning
+- **Goal**: Develop hands-on detection engineering skills by understanding attacks at the packet and protocol level
+- 
+👉 [**View on GitHub → Homelab**](https://github.com/rlmneto/Homelab)
 
 ## 🛠️ Technical Arsenal
 
